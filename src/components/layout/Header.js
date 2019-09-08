@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaPizzzaSlice, FaPizzaSlice } from 'react-icons/fa'
+import { FaPizzaSlice } from 'react-icons/fa'
 
 export const Header = () => {
     return <header className='header' data-testid='header'>
